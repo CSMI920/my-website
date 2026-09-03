@@ -1,6 +1,7 @@
 /* Place CSS styles here */
 body {
     background-color: rgb(143, 157, 151);
+    text-align: center;
 }
 image{
     border: 30px
