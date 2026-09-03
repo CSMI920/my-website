@@ -7,3 +7,11 @@ image{
     border: 30px
     
 }
+
+.logo {
+    max-width: 100px;
+}
+
+.mainimage {
+    max-width: 100px;
+}
